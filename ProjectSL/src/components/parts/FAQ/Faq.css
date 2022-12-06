@@ -1,0 +1,12 @@
+#faq{
+   background: transparent;
+    text-align: center;
+    
+}
+.title{
+    padding-bottom: 2rem;
+}
+.title h2{
+    padding-top: 1rem;
+    font-weight: 200;
+}

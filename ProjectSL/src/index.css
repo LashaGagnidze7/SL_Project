@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+:root {
+  --font-family: "Poppins", sans-serif;
+  --dark-blue: #0a1930;
+  --light-blue: #1f93ff;
+  --color-white: #fff;
+  --dark-text: #333;
+  --form-button: #2da5ff;
+  --color-grey: #eae6eb;
+  --box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(./components/assets/gym-back.jpg);;
+  background-size: cover;
+  background-attachment: fixed;
+  
+}
+
+html {
+  font-size: 20px;
+}
+
+body {
+  font-family: var(--font-family);
+}
+
+
+
+.container {
+  margin: 0 auto;
+  padding: 0 20px;
+}
+

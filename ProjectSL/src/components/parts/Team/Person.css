@@ -1,0 +1,29 @@
+.person img{
+   
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    filter: brightness(105%);
+}
+.person{
+    padding-top: 5rem;
+    display: flex;
+    
+}
+.right-content{
+   
+    font-size: 0.7rem;
+    padding-left: 1rem;
+    color:#fff
+}
+.right-content p{
+    max-width: 500px;
+}
+.right-content p span  {
+    color: rgb(30, 0, 255);
+}
+.right-content h2{
+    
+    background: transparent;
+    color: rgb(30, 0, 255);
+}
